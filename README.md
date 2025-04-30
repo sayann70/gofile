@@ -1,7 +1,6 @@
 # GoFile Uploader
 A Simple Script to upload Files to https://gofile.io via Terminal (CLI). Written in Bash.
 
-./gofile.sh <path/to/file>
 ```bash
 curl -O https://raw.githubusercontent.com/sayann70/gofile/refs/heads/main/gofile.sh
 ```
